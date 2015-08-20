@@ -1,0 +1,3 @@
+// GET /login -- Formulario de login
+exports.new = function (){
+}
